@@ -23,6 +23,8 @@ The best DatePicker and DataPicker for [React Native][rn].
 
 ## Getting Started
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/xzzw9987/rnkit-actionsheet-picker.svg)](https://greenkeeper.io/)
+
 First, `cd` to your RN project directory, and install RNMK through [rnpm](https://github.com/rnpm/rnpm) . If you don't have rnpm, you can install RNMK from npm with the command `npm i -S rnkit-actionsheet-picker` and link it manually (see below).
 
 ### iOS
