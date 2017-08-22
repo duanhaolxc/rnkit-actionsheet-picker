@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Data/ReactNative/node_modules/rnkit-actionsheet-picker/Example/android/app/build/intermediates/exploded-aar/Example/rnkit-actionsheet-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6573a79549b07197eeb2c8dc374aa4d1e1597981">
+        <dex dex="/Data/ReactNative/node_modules/rnkit-actionsheet-picker/Example/android/app/build/intermediates/pre-dexed/debug/classes-7c1aa6d3e97d52aed55915b55c80e7a7ca8c9f9c.jar" />
+    </item>
+
+</items>
